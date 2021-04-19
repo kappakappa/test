@@ -1,3 +1,3 @@
 <?php
-header('myapp_time', '500');
+header('myapp_time: 500');
 ?>
