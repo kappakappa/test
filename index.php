@@ -4,3 +4,5 @@ sleep($t);
 header("myapp_time: ".$t);
 echo "<html><body><p>response: $t</p></body></html>";
 ?>
+
+/*comment*/
